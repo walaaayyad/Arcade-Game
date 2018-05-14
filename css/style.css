@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.fas {
+	color: red;
+	font-size: 2em;
+   padding: 5px;
+}
+.score {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 2em;
+}
+.hide {
+	display: none;
+}
