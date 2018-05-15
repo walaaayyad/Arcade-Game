@@ -1,5 +1,13 @@
 # Arcade-Game
 
+## Installation
+1. Download the Repsitory on your pc by clicking on green button **Clone or download**.
+2. Download ZIP file and then extract it.
+3. Right click on **index** file and click **Open**.
+4. Start playing by using arrows on your keyboard.
+5. Or you can play by using this link (https://walaaayyad.github.io/Arcade-Game/).
+
+
 ## How To Play
 
 - Start playing by moving the player on the screen
