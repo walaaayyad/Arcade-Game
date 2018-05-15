@@ -122,9 +122,10 @@ Player.prototype.handleInput = function(keyPress){
         this.y += 83;
     }
     if(this.y < 0){
+    	var self = this;
         setTimeout(function(){
-            this.x = 202;
-            this.y = 405;
+            self.x = 202;
+            self.y = 405;
         }, 300);
      scor();
     }
